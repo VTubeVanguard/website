@@ -41,3 +41,8 @@ table th:nth-of-type(3) {
 | <center>Discord</center>                                                                   | <center>YouTube</center>                                                                                   |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [![Discord.png](images/logos/Discord.png)](https://discord.gg/Bruf6xbzXG) | [![VTVG_YT_Banner.png](images/logos/YouTube.png)](https://www.youtube.com/@VtubeVanguard) |
+
+## Useful links
+
+- [Tutorials](tutorials/)
+
