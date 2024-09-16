@@ -19,14 +19,20 @@ You may be on the vanguard, but you aren't alone.
 ## Your hosts
 
 <style>
+table {
+  width: auto;
+}
 table th:first-of-type {
-    width: 34%;
+    width: 25%;
 }
 table th:nth-of-type(2) {
-    width: 33%;
+    width: 25%;
 }
 table th:nth-of-type(3) {
-    width: 33%;
+    width: 25%;
+}
+table th:nth-of-type(4) {
+    width: 25%;
 }
 </style>
 
@@ -49,8 +55,7 @@ img[alt="YouTube.png"] {
 }
 </style>
 
-
-| <center>Discord</center>                                                  | <center>YouTube</center>                                                           |
+|                                                                           |                                                                                    |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [![Discord.png](images/logos/Discord.png)](https://discord.gg/Bruf6xbzXG) | [![YouTube.png](images/logos/YouTube.png)](https://www.youtube.com/@VtubeVanguard) |
 
