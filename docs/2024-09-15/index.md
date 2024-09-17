@@ -3,9 +3,6 @@ image:
   path: images/logos/VtubeVanguard_shield.png
   type: image/png
   alt: VTubeVanguard shield
-description: The VTubeVanguard
-site_name: VTubeVanguard!
-title: VTubeVanguard welcome page.
 ---
 
 # Welcome to 
