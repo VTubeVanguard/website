@@ -66,6 +66,6 @@ img[alt="YouTube.png"] {
  
 ## Links
 
-- [Tutorials](tutorials/)
+- [Tutorials](tutorials/index.md)
 
 <P><BR></P>
